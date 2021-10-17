@@ -1,6 +1,6 @@
 # instagram_demo
 
-A new Flutter project.
+This is a project like instagram
 
 ## Getting Started
 
